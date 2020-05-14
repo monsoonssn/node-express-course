@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/monsoonssn/node-express-course#readme",
   "dependencies": {
+    "eslint": "^7.0.0",
     "express": "^4.17.1"
   }
 }
