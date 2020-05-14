@@ -33,7 +33,7 @@ app.post('/login', function(req, res){
     const password = req.body.password;
 
     // this should come from the database
-    const mockUsernam = 'billyTheKid';
+    const mockUsername = 'billyTheKid';
     const mockPassword = 'superSecret';
 
     if (username == mockUsername && password == mockPassword) {
